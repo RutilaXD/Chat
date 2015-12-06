@@ -20,7 +20,7 @@ import cliente.Client;
  * @author Gabriel
  */
 public class server {
-//you must aooky changes because the copyrights
+//you must apply changes because the copyrights
     private Socket miServicio;
     private ServerSocket socketServicio;
 
